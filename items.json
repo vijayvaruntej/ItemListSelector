@@ -1,0 +1,820 @@
+[
+  {
+    "itemName": "పసుపు",
+    "itemQuantity": ["10 g", "50 g", "100 g", "200 g", "1/4 kg", "1/2 kg", "3/4 kg", "1 kg", "2 kg", "5 kg", "10 kg", "custom"]
+  },
+  {
+    "itemName": "సాయ పెసరపప్పు",
+    "itemQuantity": ["10 g", "50 g", "100 g", "200 g", "1/4 kg", "1/2 kg", "3/4 kg", "1 kg", "2 kg", "5 kg", "10 kg", "custom"]
+  },
+  {
+    "itemName": "వాటర్ జల్లెడ",
+    "itemQuantity": ["10 g", "50 g", "100 g", "200 g", "1/4 kg", "1/2 kg", "3/4 kg", "1 kg", "2 kg", "5 kg", "10 kg", "custom"]
+  },
+  {
+    "itemName": "కుంకుమ",
+    "itemQuantity": ["10 g", "50 g", "100 g", "200 g", "1/4 kg", "1/2 kg", "3/4 kg", "1 kg", "2 kg", "5 kg", "10 kg", "custom"]
+  },
+  {
+    "itemName": "పోట్టు పెసరపప్పు",
+    "itemQuantity": ["10 g", "50 g", "100 g", "200 g", "1/4 kg", "1/2 kg", "3/4 kg", "1 kg", "2 kg", "5 kg", "10 kg", "custom"]
+  },
+  {
+    "itemName": "తోక మిరియాలు",
+    "itemQuantity": ["10 g", "50 g", "100 g", "200 g", "1/4 kg", "1/2 kg", "3/4 kg", "1 kg", "2 kg", "5 kg", "10 kg", "custom"]
+  },
+  {
+    "itemName": "కొబ్బరికాయలు",
+    "itemQuantity": ["1 piece", "2 pieces", "5 pieces", "custom"]
+  },
+  {
+    "itemName": "జొన్నలు",
+    "itemQuantity": ["1 kg", "2 kg", "5 kg", "10 kg", "custom"]
+  },
+  {
+    "itemName": "అప్పడం (నాలికని)",
+    "itemQuantity": ["10 g", "50 g", "100 g", "200 g", "1/4 kg", "1/2 kg", "1 kg", "custom"]
+  },
+  {
+    "itemName": "పిటివక్కలు",
+    "itemQuantity": ["10 g", "50 g", "100 g", "200 g", "1/4 kg", "1/2 kg", "1 kg", "custom"]
+  },
+  {
+    "itemName": "సాంబ్రాణి",
+    "itemQuantity": ["10 g", "50 g", "100 g", "custom"]
+  },
+  {
+    "itemName": "వడియాలు",
+    "itemQuantity": ["10 pieces", "20 pieces", "50 pieces", "custom"]
+  },
+  {
+    "itemName": "బెల్లం",
+    "itemQuantity": ["100 g", "200 g", "500 g", "1 kg", "custom"]
+  },
+  {
+    "itemName": "బొబ్బర్లు పప్పు",
+    "itemQuantity": ["100 g", "200 g", "500 g", "1 kg", "custom"]
+  },
+  {
+    "itemName": "చైనా సాల్ట్",
+    "itemQuantity": ["100 g", "200 g", "custom"]
+  },
+  {
+    "itemName": "పంచదార",
+    "itemQuantity": ["1/2 kg", "1 kg", "2 kg", "custom"]
+  },
+  {
+    "itemName": "మినపగుండ్లు",
+    "itemQuantity": ["100 g", "200 g", "500 g", "1 kg", "custom"]
+  },
+  {
+    "itemName": "ఊరమిరపకాయలు",
+    "itemQuantity": ["100 g", "200 g", "500 g", "1 kg", "custom"]
+  },
+  {
+    "itemName": "అల్లం",
+    "itemQuantity": ["100 g", "200 g", "500 g", "custom"]
+  },
+  {
+    "itemName": "పుత్నాలు",
+    "itemQuantity": ["100 g", "200 g", "500 g", "1 kg", "custom"]
+  },
+  
+    { "itemName": "చిప్స్", "itemQuantity": ["100g", "200g", "500g", "custom"] },
+    { "itemName": "వెల్లిపాయలు", "itemQuantity": ["1kg", "2kg", "5kg", "custom"] },
+    { "itemName": "బెంగాలి శెనగలు", "itemQuantity": ["500g", "1kg", "2kg", "custom"] },
+    { "itemName": "వెనిగర్", "itemQuantity": ["100ml", "250ml", "500ml", "custom"] },
+    { "itemName": "ఉల్లిగడ్డలు", "itemQuantity": ["1kg", "2kg", "5kg", "custom"] },
+    { "itemName": "ఎండుమిర్చి", "itemQuantity": ["250g", "500g", "1kg", "custom"] },
+    { "itemName": "కోడిగుడ్లు", "itemQuantity": ["6", "12", "24", "custom"] },
+    { "itemName": "గసాలు", "itemQuantity": ["100g", "200g", "500g", "custom"] },
+    { "itemName": "త్రీ మ్యాంగో కారం", "itemQuantity": ["100g", "250g", "500g", "custom"] },
+    { "itemName": "టమాటా సాస్", "itemQuantity": ["200ml", "500ml", "1L", "custom"] },
+    { "itemName": "కర్బూజాగింజలు", "itemQuantity": ["50g", "100g", "250g", "custom"] },
+    { "itemName": "లావు ఆవాలు", "itemQuantity": ["50g", "100g", "250g", "custom"] },
+    { "itemName": "చిల్లీ సాస్", "itemQuantity": ["200ml", "500ml", "1L", "custom"] },
+    { "itemName": "ఎండుకొబ్బరి", "itemQuantity": ["500g", "1kg", "2kg", "custom"] },
+    { "itemName": "జీలకర్ర", "itemQuantity": ["100g", "250g", "500g", "custom"] },
+    { "itemName": "సోయాబీన్స్ సాస్", "itemQuantity": ["200ml", "500ml", "1L", "custom"] },
+    { "itemName": "కొబ్బరిపొడి", "itemQuantity": ["100g", "250g", "500g", "custom"] },
+    { "itemName": "వాము", "itemQuantity": ["50g", "100g", "250g", "custom"] },
+    { "itemName": "పేపర్ నాప్ కిన్", "itemQuantity": ["20", "50", "100", "custom"] },
+    { "itemName": "వైట్ పిప్పర్", "itemQuantity": ["50g", "100g", "250g", "custom"] },
+    { "itemName": "మిరియాలు", "itemQuantity": ["100g", "250g", "500g", "custom"] },
+    { "itemName": "టేబుల్ పేపర్", "itemQuantity": ["1 roll", "2 rolls", "5 rolls", "custom"] },
+    { "itemName": "ధనియాలు", "itemQuantity": ["100g", "250g", "500g", "custom"] },
+    { "itemName": "తినేసోడ", "itemQuantity": ["100g", "200g", "500g", "custom"] },
+    { "itemName": "బఫే గ్రీన్ ప్లేట్స్", "itemQuantity": ["10", "25", "50", "custom"] },
+    { "itemName": "ధనియాలపొడి", "itemQuantity": ["100g", "250g", "500g", "custom"] },
+    { "itemName": "సొంటి", "itemQuantity": ["50g", "100g", "250g", "custom"] },
+    { "itemName": "ఇస్తరాకులు", "itemQuantity": ["10", "25", "50", "custom"] },
+    { "itemName": "దాల్చిన చెక్క", "itemQuantity": ["50g", "100g", "250g", "custom"] },
+
+    
+      { "itemName": "తెల్లనువ్వులు", "itemQuantity": ["100g", "200g", "500g", "1kg"] },
+      { "itemName": "టిఫిన్ ప్లేట్స్ ధర్మకోల్", "itemQuantity": ["10pcs", "20pcs", "50pcs", "custom"] },
+      { "itemName": "లవంగాలు", "itemQuantity": ["50g", "100g", "200g", "custom"] },
+      { "itemName": "గ్రీన్ పీస్", "itemQuantity": ["500g", "1kg", "2kg", "custom"] },
+      { "itemName": "వాటర్ గ్లాసులు", "itemQuantity": ["10pcs", "20pcs", "50pcs", "custom"] },
+      { "itemName": "యాలకులు", "itemQuantity": ["50g", "100g", "200g", "custom"] },
+      { "itemName": "చింతపండు", "itemQuantity": ["250g", "500g", "1kg", "custom"] },
+      { "itemName": "టీ గ్లాసులు", "itemQuantity": ["10pcs", "20pcs", "50pcs", "custom"] },
+      { "itemName": "సాజీర", "itemQuantity": ["50g", "100g", "250g", "custom"] },
+      { "itemName": "మెంతులు", "itemQuantity": ["50g", "100g", "200g", "custom"] },
+      { "itemName": "కప్పులు", "itemQuantity": ["10pcs", "20pcs", "50pcs", "custom"] },
+      { "itemName": "జాపత్రి", "itemQuantity": ["25g", "50g", "100g", "custom"] },
+      { "itemName": "మెంతిపిండి", "itemQuantity": ["250g", "500g", "1kg", "custom"] },
+      { "itemName": "స్పూన్ స్టీల్", "itemQuantity": ["10pcs", "20pcs", "50pcs", "custom"] },
+      { "itemName": "జాజికాయ", "itemQuantity": ["5pcs", "10pcs", "20pcs", "custom"] },
+      { "itemName": "ఆవాల పిండి", "itemQuantity": ["250g", "500g", "1kg", "custom"] },
+      { "itemName": "xxx సర్ఫ్", "itemQuantity": ["500g", "1kg", "5kg", "custom"] },
+      { "itemName": "అనాసపువ్వు", "itemQuantity": ["25g", "50g", "100g", "custom"] },
+      { "itemName": "కల్లు ఉప్పు", "itemQuantity": ["250g", "500g", "1kg", "custom"] },
+      { "itemName": "నెయ్యి", "itemQuantity": ["500g", "1kg", "2kg", "custom"] },
+      { "itemName": "మరాఠీ మొగ్గ", "itemQuantity": ["50g", "100g", "250g", "custom"] },
+      { "itemName": "సాల్ట్ ప్యాకెట్లు", "itemQuantity": ["500g", "1kg", "2kg", "custom"] },
+      { "itemName": "డాల్డా", "itemQuantity": ["500g", "1kg", "2kg", "custom"] },
+      { "itemName": "రాతిపువ్వు", "itemQuantity": ["50g", "100g", "200g", "custom"] },
+      { "itemName": "ఎల్.జి.ఇంగువ డబ్బాలు", "itemQuantity": ["50g", "100g", "200g", "custom"] },
+      { "itemName": "రిపెండ్ ఆయిల్ డబ్బాలు", "itemQuantity": ["1ltr", "2ltr", "5ltr", "custom"] },
+      { "itemName": "బిర్యానీ ఆకు", "itemQuantity": ["10pcs", "20pcs", "50pcs", "custom"] },
+      { "itemName": "మీల్మేకర్", "itemQuantity": ["250g", "500g", "1kg", "custom"] },
+      { "itemName": "వేరుశనగ నూనె", "itemQuantity": ["1ltr", "2ltr", "5ltr", "custom"] },
+      { "itemName": "సోంపు", "itemQuantity": ["100g", "250g", "500g", "custom"] },
+      { "itemName": "ఆటాపిండి", "itemQuantity": ["1kg", "2kg", "5kg", "custom"] },
+      { "itemName": "చికెన్ మసాలా", "itemQuantity": ["50g", "100g", "200g", "custom"] },
+      { "itemName": "ఎల్లో రంగు", "itemQuantity": ["50g", "100g", "200g", "custom"] },
+      { "itemName": "మైదాపిండి", "itemQuantity": ["1kg", "2kg", "5kg", "custom"] },
+      { "itemName": "చాట్ మసాలా", "itemQuantity": ["50g", "100g", "200g", "custom"] },
+      { "itemName": "రెడ్ రంగు", "itemQuantity": ["50g", "100g", "200g", "custom"] },
+      { "itemName": "శనగపిండి", "itemQuantity": ["500g", "1kg", "2kg", "custom"] },
+      { "itemName": "మటన్ మసాలా", "itemQuantity": ["50g", "100g", "200g", "custom"] },
+      { "itemName": "గ్రీన్ రంగు", "itemQuantity": ["50g", "100g", "200g", "custom"] },
+      { "itemName": "బియ్యం పిండి", "itemQuantity": ["1kg", "2kg", "5kg", "custom"] },
+      { "itemName": "మార్వాడి మెంతిఆకు", "itemQuantity": ["100g", "250g", "500g", "custom"] },
+      { "itemName": "యూనిట్ బియ్యం", "itemQuantity": ["5kg", "10kg", "25kg", "custom"] },
+      { "itemName": "గోధుమపిండి", "itemQuantity": ["1kg", "2kg", "5kg", "custom"] },
+      { "itemName": "నిమ్ముప్పు", "itemQuantity": ["50g", "100g", "250g", "custom"] },
+      { "itemName": "సాంబబియ్యం", "itemQuantity": ["5kg", "10kg", "25kg", "custom"] },
+      { "itemName": "పండు ఖర్జూర", "itemQuantity": ["500g", "1kg", "2kg", "custom"] },
+      { "itemName": "తేనె", "itemQuantity": ["250g", "500g", "1kg", "custom"] },
+      { "itemName": "సగ్గుబియ్యం", "itemQuantity": ["500g", "1kg", "2kg", "custom"] },
+      { "itemName": "ఇడ్లీ రవ్వ", "itemQuantity": ["1kg", "2kg", "5kg", "custom"] },
+      { "itemName": "అగ్గిపెట్టెలు", "itemQuantity": ["10pcs", "20pcs", "50pcs", "custom"] },
+
+    {
+        "itemName": "కుంకుమపువ్వు",
+        "itemQuantity": ["1g", "2g", "5g", "custom"]
+    },
+    {
+        "itemName": "గోధుమ రవ్వ",
+        "itemQuantity": ["500g", "1kg", "2kg", "custom"]
+    },
+    {
+        "itemName": "అన్నం పట్ట",
+        "itemQuantity": ["1kg", "5kg", "10kg", "custom"]
+    },
+    {
+        "itemName": "జీడిపప్పు",
+        "itemQuantity": ["250g", "500g", "1kg", "custom"]
+    },
+    {
+        "itemName": "బొంబాయి రవ్వ",
+        "itemQuantity": ["500g", "1kg", "custom"]
+    },
+    {
+        "itemName": "పురికోస",
+        "itemQuantity": ["500g", "1kg", "custom"]
+    },
+    {
+        "itemName": "కిసమిస్",
+        "itemQuantity": ["250g", "500g", "custom"]
+    },
+    {
+        "itemName": "కాఫీ పొడి",
+        "itemQuantity": ["100g", "250g", "500g", "custom"]
+    },
+    {
+        "itemName": "బ్రెడ్ పౌడర్",
+        "itemQuantity": ["250g", "500g", "custom"]
+    },
+    {
+        "itemName": "సార పప్పు",
+        "itemQuantity": ["500g", "1kg", "custom"]
+    },
+    {
+        "itemName": "టీ పొడి",
+        "itemQuantity": ["250g", "500g", "custom"]
+    },
+    {
+        "itemName": "కరానికాలు",
+        "itemQuantity": ["100g", "200g", "custom"]
+    },
+    {
+        "itemName": "బాదంపప్పు",
+        "itemQuantity": ["250g", "500g", "1kg", "custom"]
+    },
+    {
+        "itemName": "సేమియా",
+        "itemQuantity": ["200g", "500g", "1kg", "custom"]
+    },
+    {
+        "itemName": "కందిపొడి",
+        "itemQuantity": ["250g", "500g", "custom"]
+    },
+    {
+        "itemName": "పిస్తా పప్పు",
+        "itemQuantity": ["250g", "500g", "custom"]
+    },
+    {
+        "itemName": "పూల్ మకాన్",
+        "itemQuantity": ["500g", "1kg", "custom"]
+    },
+    {
+        "itemName": "కారప్పొడి",
+        "itemQuantity": ["100g", "250g", "custom"]
+    },
+    {
+        "itemName": "చెర్రీస్",
+        "itemQuantity": ["100g", "200g", "custom"]
+    },
+    {
+        "itemName": "మస్రూమ్",
+        "itemQuantity": ["250g", "500g", "custom"]
+    },
+    {
+        "itemName": "స్టీల్ పీసులు",
+        "itemQuantity": ["1pc", "2pcs", "custom"]
+    },
+    {
+        "itemName": "తాలింపు గింజలు",
+        "itemQuantity": ["100g", "200g", "custom"]
+    },
+    {
+        "itemName": "అమూల్ బట్టర్",
+        "itemQuantity": ["100g", "200g", "500g", "custom"]
+    },
+    {
+        "itemName": "వక్కపొడి+టూత్ పిక్స్",
+        "itemQuantity": ["1pack", "custom"]
+    },
+    {
+        "itemName": "మిల్క్ మేడ్",
+        "itemQuantity": ["200g", "400g", "custom"]
+    },
+    {
+        "itemName": "బేబీ కార్న్",
+        "itemQuantity": ["250g", "500g", "custom"]
+    },
+    {
+        "itemName": "ఇడ్లీ క్లాత్",
+        "itemQuantity": ["1pc", "2pcs", "custom"]
+    },
+    {
+        "itemName": "పట్టిక బెల్లం (చిప్స్)",
+        "itemQuantity": ["500g", "1kg", "custom"]
+    },
+    {
+        "itemName": "వగరు పట్టిక",
+        "itemQuantity": ["500g", "1kg", "custom"]
+    },
+    {
+        "itemName": "ఉలవచారు",
+        "itemQuantity": ["500ml", "1L", "custom"]
+    },
+    {
+        "itemName": "పెసల గుండ్లు",
+        "itemQuantity": ["500g", "1kg", "custom"]
+    },
+    {
+        "itemName": "కార్న్ పౌడర్",
+        "itemQuantity": ["250g", "500g", "custom"]
+    },
+    {
+        "itemName": "క్రీమ్",
+        "itemQuantity": ["100ml", "250ml", "custom"]
+    },
+    {
+        "itemName": "పల్లీలు",
+        "itemQuantity": ["500g", "1kg", "custom"]
+    },
+    {
+        "itemName": "కస్టర్ పౌడర్",
+        "itemQuantity": ["250g", "500g", "custom"]
+    },
+    {
+        "itemName": "జీడిపప్పు గుండ్లు",
+        "itemQuantity": ["250g", "500g", "custom"]
+    },
+    {
+        "itemName": "కందిపప్పు",
+        "itemQuantity": ["500g", "1kg", "custom"]
+    },
+    {
+        "itemName": "బాదం పౌడర్",
+        "itemQuantity": ["250g", "500g", "custom"]
+    },
+    {
+        "itemName": "జీడిపప్పు చూర",
+        "itemQuantity": ["250g", "500g", "custom"]
+    },
+    {
+        "itemName": "పచ్చిశనగపప్పు",
+        "itemQuantity": ["500g", "1kg", "custom"]
+    },
+    {
+        "itemName": "అగరబత్తీలు",
+        "itemQuantity": ["1pack", "2packs", "custom"]
+    },
+    {
+        "itemName": "ఎదురుగంపలు",
+        "itemQuantity": ["1pc", "custom"]
+    },
+    {
+        "itemName": "సాయ మినపపప్పు",
+        "itemQuantity": ["500g", "1kg", "custom"]
+    },
+    {
+        "itemName": "సాంబార్ పొడి యం.టి.ఆర్",
+        "itemQuantity": ["100g", "200g", "custom"]
+    },
+    {
+        "itemName": "రోజ్ వాటర్",
+        "itemQuantity": ["100ml", "200ml", "custom"]
+    },
+
+
+    {
+        "itemName": "",
+        "itemQuantity": [""]
+    },{
+        "itemName": "",
+        "itemQuantity": [""]
+    },{
+        "itemName": "",
+        "itemQuantity": [""]
+    },
+
+
+
+
+    {
+        "itemName": "సొరకాయలు",
+        "itemQuantity": ["2kg", "5kg", "custom"]
+    },
+    {
+        "itemName": "ములక్కాయలు",
+        "itemQuantity": ["2kg", "5kg", "custom"]
+    },
+    {
+        "itemName": "దొండకాయలు",
+        "itemQuantity": ["2kg", "5kg", "custom"]
+    },
+    {
+        "itemName": "బెండకాయలు",
+        "itemQuantity": ["1kg", "3kg", "custom"]
+    },
+    {
+        "itemName": "బీరకాయలు",
+        "itemQuantity": ["1kg", "3kg", "custom"]
+    },
+    {
+        "itemName": "వంకాయలు",
+        "itemQuantity": ["1kg", "3kg", "custom"]
+    },
+    {
+        "itemName": "గుత్తి వంకాయలు",
+        "itemQuantity": ["1kg", "3kg", "custom"]
+    },
+    {
+        "itemName": "అరటికాయలు",
+        "itemQuantity": ["2kg", "5kg", "custom"]
+    },
+    {
+        "itemName": "చిక్కుడుకాయలు",
+        "itemQuantity": ["1kg", "3kg", "custom"]
+    },
+    {
+        "itemName": "మామిడికాయలు",
+        "itemQuantity": ["2 pieces", "5 pieces", "custom"]
+    },
+    {
+        "itemName": "దోసకాయలు",
+        "itemQuantity": ["1kg", "3kg", "custom"]
+    },
+    {
+        "itemName": "ముల్లంగి",
+        "itemQuantity": ["1kg", "3kg", "custom"]
+    },
+    {
+        "itemName": "నిమ్మకాయలు",
+        "itemQuantity": ["10 pieces", "20 pieces", "custom"]
+    },
+    {
+        "itemName": "కలెంకాయలు",
+        "itemQuantity": ["2kg", "5kg", "custom"]
+    },
+    {
+        "itemName": "చింతకాయలు",
+        "itemQuantity": ["500g", "1kg", "custom"]
+    },
+    {
+        "itemName": "ఆలుగడ్డలు",
+        "itemQuantity": ["5kg", "10kg", "custom"]
+    },
+    {
+        "itemName": "చామగడ్డలు",
+        "itemQuantity": ["2kg", "5kg", "custom"]
+    },
+    {
+        "itemName": "కందగడ్డలు",
+        "itemQuantity": ["2kg", "5kg", "custom"]
+    },
+    {
+        "itemName": "టమాటాలు",
+        "itemQuantity": ["2kg", "5kg", "custom"]
+    },
+    {
+        "itemName": "పచ్చిమిర్చి",
+        "itemQuantity": ["500g", "1kg", "custom"]
+    },
+    {
+        "itemName": "బజ్జీమిర్చి",
+        "itemQuantity": ["500g", "1kg", "custom"]
+    },
+    {
+        "itemName": "క్యాప్సికం మిర్చి",
+        "itemQuantity": ["1kg", "2kg", "custom"]
+    },
+    {
+        "itemName": "క్యాబేజీ",
+        "itemQuantity": ["1kg", "3kg", "custom"]
+    },
+    {
+        "itemName": "క్యాలీప్లవర్",
+        "itemQuantity": ["1kg", "3kg", "custom"]
+    },
+    {
+        "itemName": "క్యారెట్",
+        "itemQuantity": ["1kg", "3kg", "custom"]
+    },
+    {
+        "itemName": "బీన్స్",
+        "itemQuantity": ["1kg", "3kg", "custom"]
+    },
+    {
+        "itemName": "బీట్ రూట్",
+        "itemQuantity": ["1kg", "3kg", "custom"]
+    },
+    {
+        "itemName": "కీర",
+        "itemQuantity": ["1kg", "3kg", "custom"]
+    },
+    {
+        "itemName": "తోటకూర కట్టలు",
+        "itemQuantity": ["5 bundles", "10 bundles", "custom"]
+    },
+    {
+        "itemName": "మెంతికూర కట్టలు",
+        "itemQuantity": ["5 bundles", "10 bundles", "custom"]
+    },
+    {
+        "itemName": "పాలకూర కట్టలు",
+        "itemQuantity": ["5 bundles", "10 bundles", "custom"]
+    },
+    {
+        "itemName": "కొత్తిమీర కట్టలు",
+        "itemQuantity": ["5 bundles", "10 bundles", "custom"]
+    },
+    {
+        "itemName": "పుదీన కట్టలు",
+        "itemQuantity": ["5 bundles", "10 bundles", "custom"]
+    },
+    {
+        "itemName": "బచ్చలకూర కట్టలు",
+        "itemQuantity": ["5 bundles", "10 bundles", "custom"]
+    },
+    {
+        "itemName": "గోంగూర ఎరుపు",
+        "itemQuantity": ["5 bundles", "10 bundles", "custom"]
+    },
+    {
+        "itemName": "గోంగూర తెలుపు",
+        "itemQuantity": ["5 bundles", "10 bundles", "custom"]
+    },
+    {
+        "itemName": "చింతచిగురు",
+        "itemQuantity": ["5 bundles", "10 bundles", "custom"]
+    },
+    {
+        "itemName": "కరివేపాకు",
+        "itemQuantity": ["5 bundles", "10 bundles", "custom"]
+    },
+    {
+        "itemName": "బోడ కాకరకాయలు",
+        "itemQuantity": ["1kg", "3kg", "custom"]
+    },
+    {
+        "itemName": "చుక్కకూర",
+        "itemQuantity": ["5 bundles", "10 bundles", "custom"]
+    },
+    {
+        "itemName": "బూడిదగుమ్మడికాయ",
+        "itemQuantity": ["2kg", "5kg", "custom"]
+    },
+    {
+        "itemName": "ఉసిరికాయలు",
+        "itemQuantity": ["1kg", "3kg", "custom"]
+    },
+    {
+        "itemName": "పండుమిర్చి",
+        "itemQuantity": ["500g", "1kg", "custom"]
+    },
+    {
+        "itemName": "బొప్పడి కాయలు",
+        "itemQuantity": ["1kg", "3kg", "custom"]
+    },
+    {
+        "itemName": "చిన్నఉల్లిపాయలు",
+        "itemQuantity": ["1kg", "3kg", "custom"]
+    },
+
+
+
+
+    {
+        "itemName": "",
+        "itemQuantity": [""]
+    },{
+        "itemName": "",
+        "itemQuantity": [""]
+    },{
+        "itemName": "",
+        "itemQuantity": [""]
+    },
+
+
+    
+        {
+            "itemName": "పాలు",
+            "itemQuantity": ["500ml", "1ltr", "2ltr", "5ltr", "10ltr", "custom"]
+        },
+        {
+            "itemName": "పెరుగు బకెట్లు",
+            "itemQuantity": ["500g", "1kg", "2kg", "5kg", "10kg", "custom"]
+        },
+        {
+            "itemName": "సిలిండర్లు",
+            "itemQuantity": ["1", "2", "3", "5", "10", "custom"]
+        },
+        {
+            "itemName": "పాతచీరలు",
+            "itemQuantity": ["1", "2", "5", "10", "15", "custom"]
+        },
+        {
+            "itemName": "మిక్సి",
+            "itemQuantity": ["1", "2", "custom"]
+        },
+        {
+            "itemName": "పన్నీరు",
+            "itemQuantity": ["250g", "500g", "1kg", "2kg", "5kg", "custom"]
+        },
+        {
+            "itemName": "పచ్చికోవా",
+            "itemQuantity": ["250g", "500g", "1kg", "2kg", "5kg", "custom"]
+        },
+        {
+            "itemName": "స్పెన్సర్ బ్రెడ్",
+            "itemQuantity": ["1 loaf", "2 loaves", "5 loaves", "10 loaves", "custom"]
+        },
+        {
+            "itemName": "కట్టెలు",
+            "itemQuantity": ["10kg", "20kg", "50kg", "100kg", "custom"]
+        },
+
+
+
+        {
+            "itemName": "",
+            "itemQuantity": [""]
+        },{
+            "itemName": "",
+            "itemQuantity": [""]
+        },{
+            "itemName": "",
+            "itemQuantity": [""]
+        },
+
+
+
+        
+            {
+                "itemName": "డబుల్ పొయ్యి",
+                "itemQuantity": ["1", "2", "3", "custom"]
+            },
+            {
+                "itemName": "సింగిల్ పొయ్యి",
+                "itemQuantity": ["1", "2", "3", "custom"]
+            },
+            {
+                "itemName": "జగ్గులు",
+                "itemQuantity": ["1", "2", "3", "5", "custom"]
+            },
+            {
+                "itemName": "బేసిన్ లు",
+                "itemQuantity": ["1", "2", "5", "10", "custom"]
+            },
+            {
+                "itemName": "హస్తాలు",
+                "itemQuantity": ["1", "2", "3", "5", "custom"]
+            },
+            {
+                "itemName": "బకెట్లు",
+                "itemQuantity": ["1", "2", "5", "10", "custom"]
+            },
+            {
+                "itemName": "కూరగంటెలు",
+                "itemQuantity": ["5kg", "10kg", "20kg", "custom"]
+            },
+            {
+                "itemName": "సాంబార్ డోంగాలు",
+                "itemQuantity": ["1", "2", "3", "custom"]
+            },
+            {
+                "itemName": "డ్రమ్ములు",
+                "itemQuantity": ["1", "2", "3", "5", "custom"]
+            },
+            {
+                "itemName": "కొబ్బరితురుము",
+                "itemQuantity": ["500g", "1kg", "2kg", "5kg", "custom"]
+            },
+            {
+                "itemName": "కత్తిపీటలు",
+                "itemQuantity": ["1", "2", "custom"]
+            },
+            {
+                "itemName": "పులిహోర పళ్ళేములు",
+                "itemQuantity": ["1", "2", "5", "custom"]
+            },
+            {
+                "itemName": "పాత కార్పెట్",
+                "itemQuantity": ["1", "2", "3", "custom"]
+            },
+            {
+                "itemName": "వేస్ట్ బుట్టలు",
+                "itemQuantity": ["1", "2", "3", "5", "custom"]
+            },
+            {
+                "itemName": "కుర్పీలు",
+                "itemQuantity": ["1", "2", "custom"]
+            },
+            {
+                "itemName": "టీ కబ్గిర్లు",
+                "itemQuantity": ["1", "2", "custom"]
+            },
+            {
+                "itemName": "పెద్ద కల్గిర్లు",
+                "itemQuantity": ["1", "2", "custom"]
+            },
+            {
+                "itemName": "కలయిలు",
+                "itemQuantity": ["1", "2", "custom"]
+            },
+            {
+                "itemName": "జల్లిగంటెలు",
+                "itemQuantity": ["1", "2", "custom"]
+            },
+            {
+                "itemName": "టీ ప్లాస్కో",
+                "itemQuantity": ["1ltr", "2ltr", "5ltr", "custom"]
+            },
+            {
+                "itemName": "హాట్ డిష్ లు",
+                "itemQuantity": ["1", "2", "5", "custom"]
+            },
+            {
+                "itemName": "గ్రైండర్",
+                "itemQuantity": ["1", "2", "custom"]
+            },
+            {
+                "itemName": "కుర్చీలు",
+                "itemQuantity": ["5", "10", "20", "custom"]
+            },
+            {
+                "itemName": "స్వీట్ ట్రేలు",
+                "itemQuantity": ["1", "2", "5", "custom"]
+            },
+            {
+                "itemName": "బల్లాలు",
+                "itemQuantity": ["1", "2", "custom"]
+            },
+            {
+                "itemName": "రింగ్ పొయ్యి",
+                "itemQuantity": ["1", "2", "custom"]
+            },
+            {
+                "itemName": "18X36 టెంట్",
+                "itemQuantity": ["1", "2", "custom"]
+            },
+            {
+                "itemName": "గుడారం టెంట్",
+                "itemQuantity": ["1", "2", "custom"]
+            },
+            {
+                "itemName": "12X24 టెంట్",
+                "itemQuantity": ["1", "2", "custom"]
+            },
+            {
+                "itemName": "కర్రి బౌల్స్",
+                "itemQuantity": ["10", "20", "50", "custom"]
+            },
+
+
+
+            {
+                "itemName": "",
+                "itemQuantity": [""]
+            },{
+                "itemName": "",
+                "itemQuantity": [""]
+            },{
+                "itemName": "",
+                "itemQuantity": [""]
+            },
+
+
+            
+                {
+                    "itemName": "60 కేజీల డికీష",
+                    "itemQuantity": ["1", "2", "5", "10", "custom"]
+                },
+                {
+                    "itemName": "50 కేజీల డికీష",
+                    "itemQuantity": ["1", "2", "5", "10", "custom"]
+                },
+                {
+                    "itemName": "70 కేజీల గిన్నె",
+                    "itemQuantity": ["1", "2", "5", "10", "custom"]
+                },
+                {
+                    "itemName": "40 కేజీల గిన్నె",
+                    "itemQuantity": ["1", "2", "5", "10", "custom"]
+                },
+                {
+                    "itemName": "30 కేజీల గిన్నె",
+                    "itemQuantity": ["1", "2", "5", "10", "custom"]
+                },
+                {
+                    "itemName": "20 కేజీల గిన్నె",
+                    "itemQuantity": ["1", "2", "5", "10", "custom"]
+                },
+                {
+                    "itemName": "15 కేజీల గిన్నె",
+                    "itemQuantity": ["1", "2", "5", "10", "custom"]
+                },
+                {
+                    "itemName": "10 కేజీల గిన్నె",
+                    "itemQuantity": ["1", "2", "5", "10", "custom"]
+                },
+                {
+                    "itemName": "5 కేజీల గిన్నె",
+                    "itemQuantity": ["1", "2", "5", "10", "custom"]
+                },
+                {
+                    "itemName": "లగాన్",
+                    "itemQuantity": ["1", "2", "5", "10", "custom"]
+                },
+                {
+                    "itemName": "ఇడ్లీపాత్ర",
+                    "itemQuantity": ["1", "2", "5", "10", "custom"]
+                },
+                {
+                    "itemName": "దోశపెనం",
+                    "itemQuantity": ["1", "2", "5", "10", "custom"]
+                },
+                {
+                    "itemName": "బపే స్టాల్స్",
+                    "itemQuantity": ["1", "2", "5", "10", "custom"]
+                },
+                {
+                    "itemName": "గ్రీన్ కార్పెట్",
+                    "itemQuantity": ["1", "2", "5", "10", "custom"]
+                },
+                {
+                    "itemName": "రౌండ్ టేబుల్స్",
+                    "itemQuantity": ["1", "2", "5", "10", "custom"]
+                }
+            ]
+            
+
+
+        
+
+        
+    
+
+
+
+
+    
+

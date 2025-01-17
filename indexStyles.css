@@ -1,0 +1,86 @@
+.container {
+    max-width: 960px; /* Adjust as needed */
+    margin: 0 auto;
+  }
+  
+  .grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+  
+  .grid-item {
+    width: calc(30%); /* Adjust for 3 columns */
+    border: 2px solid gray;
+    padding: 0.2%;
+    margin: 0.5%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .grid-item select,input {
+    width: calc(25%);
+    font-size: medium;
+  }
+  .grid-item span {
+    width: calc(75%);
+    font-size: medium;
+  }
+  /* Add more CSS styles as needed */
+
+  :root {
+    --text-color: #ffffff;
+    --bg-color: #000000;
+}
+  
+  /* Light Mode Styles */
+body {
+  background-color: var(--text-color);
+  color: var(--bg-color);
+  font-family: Arial, sans-serif;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1.2em;
+  cursor: pointer;
+  border: 2px solid var(--bg-color);
+  background-color: var(--text-color);
+  color: var(--bg-color);
+  transition: background-color 0.3s, color 0.3s;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+/* Dark Mode Styles */
+body.dark-mode {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+body.dark-mode button {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  border: 2px solid var(--text-color);
+}
+
+body.dark-mode button:hover {
+  background-color: var(--text-color);
+  color: var(--bg-color);
+}
+
+.Header, .footer {
+  text-align: center;
+}
